@@ -99,7 +99,7 @@ streamlit run Edverto.py
 ---
 
 ## **Demo**
-![EDVERTO Chatbot Demo]([https://via.placeholder.com/800x400.png](https://github.com/Abhijat-M/chatbot_edverto/blob/main/demo.png))
+![EDVERTO Chatbot Demo](https://github.com/Abhijat-M/chatbot_edverto/blob/main/demo.png)
 
 ---
 
